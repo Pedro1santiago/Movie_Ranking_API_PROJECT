@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/apiFilmes.iml" filepath="$PROJECT_DIR$/.idea/apiFilmes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Movie_Ranking_API_PROJECT.iml" filepath="$PROJECT_DIR$/.idea/Movie_Ranking_API_PROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiFilmes/apiFilmes.iml" filepath="$PROJECT_DIR$/apiFilmes/apiFilmes.iml" />
     </modules>
   </component>
 </project>
